@@ -52,8 +52,8 @@ This dataset is used to train the CNN model to recognize handwritten characters.
 
 ---
 
-## Sample UI
+## UI [Sample Data]
 
 Here’s a sample image of the **Streamlit UI** where users can interact with the model:
 
-![Sample UI](https://github.com/your-username/Handwritten_Character_CNN/blob/main/sample.png)
+![Sample UI](https://github.com/SDK142S/Handwritten_Character_CNN/blob/main/sample.png)
